@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amrish Yadav</h1>
 
+<!-- THEME TOGGLE SIMULATION -->
+<p align="right">
+  <b>Theme:</b> 🌞 <code>Light</code> | 🌙 <code>Dark</code>
+</p>
+
 <h3 align="center">
 🚀 A passionate Full Stack Developer from India 🇮🇳  
 💻 Crafting Scalable Web Apps | 🌐 MERN Stack  
@@ -49,10 +54,26 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack by Role
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,php,java,py,cpp,html,css,tailwind,bootstrap,figma,docker,git,github,postman,vscode" />
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" />
+</p>
+
+### 🖥️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,flask" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode" />
+</p>
+
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py" />
 </p>
 
 ---
