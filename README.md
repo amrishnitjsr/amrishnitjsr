@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrish Yadav</h1>
 
-<!-- THEME TOGGLE SIMULATION -->
-<p align="right">
-  <b>Theme:</b> 🌞 <code>Light</code> | 🌙 <code>Dark</code>
-</p>
-
 <h3 align="center">
 🚀 A passionate Full Stack Developer from India 🇮🇳  
 💻 Crafting Scalable Web Apps | 🌐 MERN Stack  
@@ -12,10 +7,8 @@
 </h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Amrish+Yadav;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%E2%9A%A1;Lifelong+Learner+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Growth+Mindset+%F0%9F%8E%AF" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Amrish+Yadav;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%E2%9A%A1;Lifelong+Learner+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Growth+Mindset+%F0%9F%8E%AF" alt="Typing animation" />
-  </picture>
+  <!-- Animated Typing SVG with more lines -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=1E90FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%AC;UI%2FUX+Lover+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A;JavaScript+Addict+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -78,23 +71,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishnitjsr&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishnitjsr&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Animated)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrishnitjsr&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amrishnitjsr&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
