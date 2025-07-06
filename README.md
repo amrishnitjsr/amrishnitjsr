@@ -1,115 +1,99 @@
 <h1 align="center">Hi 👋, I'm Amrish Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 A passionate Full Stack Developer from India 🇮🇳 | 💻 Crafting Scalable Web Apps | 🧠 Lifelong Learner | 🌐 MERN Stack | 🔧 Node.js • Express • MongoDB • React</h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1FC2E9&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer;Full+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💼 Work
+### 🔭 Currently Working On
+- [Digital Health Tool](https://github.com/amrishnitjsr/digital-health-platform)
+- [Evently - Event Management App](https://github.com/amrishnitjsr/evently)
 
-- 🔭 I’m currently working on **Digital Health Platform**  
-  [Project Link](https://github.com/amrishnitjsr/digital-health-platform)
+### 👯 Looking to Collaborate On
+- [Email OTP + OAuth Auth System](https://github.com/amrishnitjsr/email-otp-auth)
 
-- 👯 I’m looking to collaborate on **Event Management App - Evently**  
-  [Project Link](https://github.com/amrishnitjsr/evently)
+### 🤝 Seeking Help With
+- Secure multi-step authentication flows
 
-- 🤝 I’m looking for help with **OAuth + Email OTP Authentication System**  
-  [Project Link](https://github.com/amrishnitjsr/email-otp-auth)
+### 🌱 Currently Learning
+- Docker & Kubernetes  
+- Google & Firebase Auth  
+- Advanced React Patterns  
 
----
-
-### 🌱 I’m currently learning
-- Advanced React Patterns
-- OAuth 2.0 and Google Login
-- Docker and Kubernetes
-- Scalable System Design
-
----
-
-### 💬 Ask me about
-`React`, `Vue`, `GSAP`
+### 💬 Ask Me About
+`React` • `Vue` • `GSAP` • `Node.js` • `MongoDB`
 
 ---
 
-### 📫 How to reach me
-📧 **amrishrock2002@gmail.com**
+### 📫 Reach Me At
+📧 **amrishrock2002@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/amrishnitjsr) • [Portfolio](https://amrish-portfolio.vercel.app) • [Blog](https://amrish-blog.hashnode.dev)
 
 ---
 
-### 👨‍💻 All of my projects are available at
-🌐 [https://amrish-portfolio.vercel.app](https://amrish-portfolio.vercel.app)
+### 📄 Resume
+[Click Here to View Resume](https://amrish-resume.vercel.app)
 
 ---
 
-### 📝 I regularly write articles on
-📰 [https://amrish-blog.hashnode.dev](https://amrish-blog.hashnode.dev)
-
----
-
-### 📄 Know about my experiences
-📑 [https://amrish-resume.vercel.app](https://amrish-resume.vercel.app)
-
----
-
-### ⚡ Fun fact
+### ⚡ Fun Fact
 I think I am funny 😄
 
 ---
 
 ## 🛠️ Skills
 
-### 👨‍💻 Programming Languages  
-`C` `C++` `Java` `JavaScript` `TypeScript` `Python` `PHP`
+**Languages:**  
+`C` `C++` `JavaScript` `TypeScript` `Python` `PHP` `Java`
 
-### 💻 Frontend Development  
-`React` `Vue` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Redux`
+**Frontend:**  
+`React` `Vue` `Tailwind CSS` `HTML5` `CSS3` `Bootstrap` `Redux`
 
-### 🧠 Backend Development  
-`Node.js` `Express.js` `Flask` `Spring Boot`
+**Backend:**  
+`Node.js` `Express` `Flask` `MongoDB` `MySQL`
 
-### 📱 Mobile App Development  
-`Flutter` `Kotlin` `React Native`
-
-### 🤖 AI/ML  
-`TensorFlow` `Pandas` `OpenCV` `scikit-learn`
-
-### 🗃️ Database  
-`MongoDB` `MySQL` `PostgreSQL` `SQLite`
-
-### 📊 Data Visualization  
-`Chart.js` `D3.js`
-
-### ⚙️ DevOps & Cloud  
-`Docker` `AWS` `GCP` `GitHub Actions`
-
-### 🔧 Testing  
-`Jest` `Selenium` `Cypress`
-
-### 💻 Software & Tools  
-`Figma` `Postman` `MATLAB` `Photoshop` `Git`
+**DevOps & Tools:**  
+`Docker` `Git` `GitHub` `Postman` `Figma`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&locale=en" alt="amrishnitjsr" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrishnitjsr" alt="amrishnitjsr-streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrishnitjsr&show_icons=true&locale=en&layout=compact" alt="amrishnitjsr-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&hide_border=true&theme=default" alt="stats-light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=default&hide_border=true" alt="streak-light" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishnitjsr&layout=compact&hide_border=true&theme=default" alt="top-langs" />
+</p>
+
+> 💡 **Note**: These cards adapt to GitHub's dark/light mode automatically
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amrishnitjsr&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amrishnitjsr)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/amrishnitjsr)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/amrishnitjsr)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://amrish-blog.hashnode.dev)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/amrishnitjsr)  
+<p align="center">
+  <a href="https://github.com/amrishnitjsr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/amrishnitjsr"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/amrishnitjsr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://amrish-blog.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrishnitjsr&label=Profile%20views&color=0e75b6&style=flat" alt="amrishnitjsr" />
+  <img src="https://komarev.com/ghpvc/?username=amrishnitjsr&label=Profile%20views&color=blueviolet&style=flat" alt="amrishnitjsr" />
 </p>
