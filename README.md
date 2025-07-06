@@ -126,8 +126,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
   &nbsp;&nbsp;
 
-  <!-- ⚠️ WakaTime username must be correct and public -->
-  <img src="<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amrishnitjsr&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
