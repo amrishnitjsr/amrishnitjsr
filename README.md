@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <!-- Clean and professional animated typing SVG -->
+  <!-- Animated typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=110&lines=I'm+Amrish+Yadav;Full+Stack+Developer;Android+Developer" alt="Typing SVG" />
 </p>
 
@@ -37,7 +37,6 @@
 - Basics of Machine Learning and AI integration  
 - GraphQL and CI/CD pipelines for modern development
 
-
 ---
 
 ## 📫 How to Reach Me
@@ -62,7 +61,7 @@
 
 ---
 
-## 🧰 Tech Stack by Role
+## 🧰 Tech Stack
 
 ### 💻 Frontend
 <p>
@@ -89,12 +88,42 @@
 ## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=radical&hide_border=true" />
+  <!-- Main GitHub stats with private & all commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishnitjsr&layout=compact&hide_border=true&theme=radical" />
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Top languages (compact circular progress bars) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishnitjsr&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub trophies - Animated SVG -->
+  <img src="https://github-profile-trophy.vercel.app/?username=amrishnitjsr&theme=radical&no-bg=true&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📅 GitHub Activity
+
+<p align="center">
+  <!-- Profile picture -->
+  <img src="https://github.com/amrishnitjsr.png?size=230" alt="Profile Pic" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <!-- Contribution calendar with animation -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrishnitjsr&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <!-- Commit activity graph - animated -->
+  <img src="https://github-readme-commit-activity.vercel.app/api?user=amrishnitjsr&theme=radical" alt="Commit Activity Graph" />
 </p>
 
 ---
@@ -109,16 +138,4 @@
   </a>
   &nbsp;&nbsp;
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
-
----
-
-## 📅 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/amrishnitjsr.png?size=230" alt="Profile Pic" style="border-radius:50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrishnitjsr&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
