@@ -7,43 +7,58 @@
 </h3>
 
 <p align="center">
-  <!-- Animated Typing SVG with more lines -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=1E90FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%AC;UI%2FUX+Lover+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A;JavaScript+Addict+%F0%9F%92%BB" alt="Typing SVG" />
+  <!-- Clean and professional animated typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=110&lines=I'm+Amrish+Yadav;Full+Stack+Developer;Android+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔭 Currently Working On
+## 📝 About Me
 
-- 🏥 [Digital Health Tool](https://github.com/amrishnitjsr/digital-health-platform)
-- 🎉 [Evently - Event Management App](https://github.com/amrishnitjsr/evently)
-
-## 👯 Looking to Collaborate On
-
-- 🛡️ [Email OTP + OAuth Auth System](https://github.com/amrishnitjsr/email-otp-auth)
-
-## 🌱 Currently Learning
-
-- 🐳 Docker & Kubernetes  
-- 🔐 Firebase Authentication  
-- ⚛️ Advanced React Patterns  
-
-## 💬 Ask Me About
-
-`React` • `Vue` • `MongoDB` • `Node.js` • `GSAP`
+- Dedicated Full Stack Developer specializing in MERN stack  
+- Passionate about building scalable, efficient, and user-friendly apps  
+- Committed to continuous learning, collaboration, and innovation
 
 ---
 
-## 📫 Reach Me
+## 🔭 What I’m Currently Working On
 
-📧 **amrishrock2002@gmail.com**  
-🌐 [Portfolio](https://amrish-portfolio.vercel.app) • [LinkedIn](https://linkedin.com/in/amrishnitjsr) • [Blog](https://amrish-blog.hashnode.dev)
+- Developing a secure Digital Health platform for patient data  
+- Building an Event Management app with real-time booking & payments  
+- Contributing to React/Node.js open-source projects  
+- Exploring PWAs and cloud deployment (AWS, Heroku)
 
 ---
 
-## 📄 Resume
+## 🌱 What I’m Learning
 
-📎 [View Resume](https://amrish-resume.vercel.app)
+- Advanced TypeScript and best practices  
+- Kubernetes & Docker for container orchestration  
+- Basics of Machine Learning and AI integration  
+- GraphQL and CI/CD pipelines for modern development
+
+
+---
+
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:amrishrock2002@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/amrish-yadav" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/amrishnitjsr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/amrishnitjsr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -84,25 +99,26 @@
 
 ---
 
-## 🏆 GitHub Trophies (Animated)
+## 🎉 Extra Animated Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrishnitjsr&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://komarev.com/ghpvc/?username=amrishnitjsr&color=ff69b4&style=flat-square&label=Visitors" alt="Profile views" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/amrishnitjsr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/amrishnitjsr?label=Follow&style=social" alt="Twitter Follow" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📅 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/amrishnitjsr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/amrishnitjsr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/amrishnitjsr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://amrish-blog.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode" /></a>
+  <img src="https://github.com/amrishnitjsr.png?size=230" alt="Profile Pic" style="border-radius:50%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrishnitjsr&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrishnitjsr&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
