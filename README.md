@@ -7,7 +7,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%AC;UI%2FUX+Lover+%F0%9F%8E%A8;Always+learning...+%F0%9F%93%9A" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Amrish+Yadav;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%E2%9A%A1;Lifelong+Learner+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Growth+Mindset+%F0%9F%8E%AF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Amrish+Yadav;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%E2%9A%A1;Lifelong+Learner+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Growth+Mindset+%F0%9F%8E%AF" alt="Typing animation" />
+  </picture>
 </p>
 
 ---
@@ -21,45 +24,35 @@
 
 - 🛡️ [Email OTP + OAuth Auth System](https://github.com/amrishnitjsr/email-otp-auth)
 
-## 🤝 Seeking Help With
-
-- 🔐 Secure multi-step authentication flows
-
 ## 🌱 Currently Learning
 
 - 🐳 Docker & Kubernetes  
-- 🔐 Google & Firebase Auth  
+- 🔐 Firebase Authentication  
 - ⚛️ Advanced React Patterns  
 
 ## 💬 Ask Me About
 
-`React` • `Vue` • `GSAP` • `Node.js` • `MongoDB`
+`React` • `Vue` • `MongoDB` • `Node.js` • `GSAP`
 
 ---
 
-## 📫 Reach Me At
+## 📫 Reach Me
 
 📧 **amrishrock2002@gmail.com**  
-🔗 [Portfolio](https://amrish-portfolio.vercel.app) • [LinkedIn](https://linkedin.com/in/amrishnitjsr) • [Blog](https://amrish-blog.hashnode.dev)
+🌐 [Portfolio](https://amrish-portfolio.vercel.app) • [LinkedIn](https://linkedin.com/in/amrishnitjsr) • [Blog](https://amrish-blog.hashnode.dev)
 
 ---
 
 ## 📄 Resume
 
-📎 [Click Here to View Resume](https://amrish-resume.vercel.app)
+📎 [View Resume](https://amrish-resume.vercel.app)
 
 ---
 
-## ⚡ Fun Fact
-
-I sometimes debug better at 2 AM than 2 PM 😄
-
----
-
-## 🛠️ Technologies & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nodejs,express,mongodb,mysql,php,java,py,cpp,figma,docker,git,github,postman,tailwind,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,php,java,py,cpp,html,css,tailwind,bootstrap,figma,docker,git,github,postman,vscode" />
 </p>
 
 ---
@@ -67,15 +60,13 @@ I sometimes debug better at 2 AM than 2 PM 😄
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&theme=default&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishnitjsr&layout=compact&hide_border=true&theme=default" />
 </p>
-
-> 🌓 GitHub cards auto-switch between **light and dark theme**.
 
 ---
 
@@ -87,17 +78,17 @@ I sometimes debug better at 2 AM than 2 PM 😄
 
 ---
 
-## 🌐 Social Links
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/amrishnitjsr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/amrishnitjsr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/amrishnitjsr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://amrish-blog.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amrishnitjsr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/amrishnitjsr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://amrish-blog.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrishnitjsr&label=Profile%20views&color=blueviolet&style=flat" alt="amrishnitjsr" />
+  <img src="https://komarev.com/ghpvc/?username=amrishnitjsr&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
