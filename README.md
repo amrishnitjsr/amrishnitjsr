@@ -133,9 +133,10 @@
 ---
 
 <p align="center">
-  <a href="https://leetcode.com/amrishnitjsr" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/amrishnitjsr?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/Amrish_Yadav071" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Amrish_Yadav071?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
   </a>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/amrishnitjsr/amrishnitjsr/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
