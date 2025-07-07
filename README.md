@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amrish Yadav</h1>
 
 <h3 align="center">
 🚀 A passionate Full Stack Developer from India 🇮🇳<br>
 💻 Crafting Scalable Web Apps | 🌐 MERN Stack<br>
-🧠 Lifelong Learner | 💡 Problem Solver | 🎯 Growth Mindset
+🧠 Lifelong Learner | 🎯 Growth Mindset
 </h3>
 
 <p align="center">
