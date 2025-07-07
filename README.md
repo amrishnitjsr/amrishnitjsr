@@ -1,13 +1,9 @@
-
-<h3 align="center">
-🚀 A passionate Full Stack Developer from India 🇮🇳<br>
-💻 Crafting Scalable Web Apps | 🌐 MERN Stack<br>
-🧠 Lifelong Learner | 🎯 Growth Mindset
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=110&lines=I'm+Amrish+Yadav;Full+Stack+Developer;Android+Developer" alt="Typing SVG" />
 </p>
+
+<h3 align="center">
+</h3>
 
 ---
 
