@@ -1,33 +1,17 @@
-name: 🧮 GitHub Metrics
-
+name: Metrics
 on:
-  schedule: [{ cron: "0 6 * * *" }]
+  schedule: [{cron: "0 0 * * *"}]
+  push: {branches: ["main"]}
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 📊 Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          user: amrishnitjsr
-          template: classic
           base: header, activity, community, repositories, metadata
-
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_visibility: public
-
-          plugin_lines: yes
-          plugin_calendar: yes
-
-          plugin_leetcode: yes
-          plugin_leetcode_user: Amrish_Yadav071
-          plugin_leetcode_sections: solved, recent
+          plugin_traffic: yes
