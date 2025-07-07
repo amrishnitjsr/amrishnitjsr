@@ -84,10 +84,19 @@
 
 ---
 
-<h2 align="center">🚀 My GitHub Performance</h2>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Amrish%20Yadav's%20Stats" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amrishnitjsr&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+
+---
+
+## 🚀 My GitHub Performance
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrishnitjsr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Amrish%20Yadav's%20Stats&rank_icon=github&hide_title=false&role=OWNER,COLLABORATOR&line_height=26&card_width=450&animate=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amrishnitjsr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   &nbsp;&nbsp;
@@ -124,17 +133,20 @@
   &nbsp;&nbsp;
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-  &nbsp;&nbsp;
-
 </p>
 
 ---
+
+## 🧠 Competitive Programming & Metrics
 
 <p align="center">
   <a href="https://leetcode.com/Amrish_Yadav071" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Amrish_Yadav071?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/amrishrock2002" target="_blank">
+    <img src="https://github-readme-hackerrank-stats.vercel.app/api?username=amrishrock2002&theme=dark" alt="HackerRank Stats" />
+  </a>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/amrishnitjsr/amrishnitjsr/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
